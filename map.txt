@@ -1,0 +1,44 @@
+c1_infos:
+name_player=Boss
+lvl_teacher=3
+c1_PE1:
+variety=PARLFOR
+lvl=4
+c1_PE2:
+variety=PROCRASTINO
+lvl=5
+
+c2_infos:
+name_player=TheBoss
+lvl_teacher=6
+c2_PE1:
+variety=ISMAR
+lvl=4
+c2_PE2:
+variety=NUIDEBOU
+lvl=6
+
+c3_infos:
+name_player=TheSuperBoss
+lvl_teacher=10
+c3_PE1:
+variety=RIGOLAMOR
+lvl=8
+c3_PE2:
+variety=BUCHAFON
+lvl=5
+
+nb_lignes=10
+nb_colonnes=12
+
+bg bg bg bg 2  3  3  4  bg bg bg bg
+bg bg  1  2  2  3  3  4  4  5 bg bg
+bg 1  1  2  2  3  3  4  4  5  5  bg
+1  1  1  2  b  b  b  b  4  5  5  5
+b  b  b  b  b  c1 n  b  b  b  b  b
+b  b  b  b  b  c2 c3 b  b  b  b  b
+6  6  6  7  b  b  b  b  9  10 10 10
+bg 6  6  7  7  8  8  9  9  10 10 bg 
+bg bg 6  7  7  8  8  9  9  10 bg bg
+bg bg bg bg 7  8  8  9  bg bg bg bg
+
