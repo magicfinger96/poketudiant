@@ -1,3 +1,7 @@
+# Pokétudiant
+
+Voici mon pokémon like développé en langage C durant ma 3ème année de licence.
+
 # Execution
 
 Lancez la commande "make" puis suivez les instructions
